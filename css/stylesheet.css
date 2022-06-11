@@ -1,0 +1,35 @@
+.navbar-brand{
+    color: white;
+}
+.banner {
+    background: url("../image/brand/gedung.jpg") no-repeat center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: whitesmoke;
+    font-family: 'Mukta', sans-serif;
+    text-shadow: 0 0 3px #9423d6, 0 0 10px rgba(41, 7, 134, 0.979);
+}
+#Layanan h5 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Layanan hr {
+    color: white;
+}
+#Kontak {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer {
+    position: relative;
+    width: 100%;
+    height: 120px;
+    color: aliceblue;
+    font-size: 14px;
+    bottom: 0px;
+    padding-top: 20px;
+}
+.about , .profil , .kontak{
+    position: relative;
+    top: 120px;
+}

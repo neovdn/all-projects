@@ -1,0 +1,10 @@
+header{
+    box-sizing: border-box;
+    color: blue;
+    text-align: center;
+    border-color: black:
+    border: 10px;
+    border-style: solid;
+    padding: 5px;
+    margin: 200px;
+}
